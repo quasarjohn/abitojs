@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "phoenix-coin"
+  },
+  "targets": {
+    "phoenix-coin": {
+      "hosting": {
+        "abitojs": [
+          "abitojs"
+        ]
+      }
+    }
+  }
+}
